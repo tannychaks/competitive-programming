@@ -29,7 +29,6 @@ public class SortWithoutSortAlgo {
    * @param n
    */
   private static void sort012(int[] arr, int n) {
-
     int i, j, k;
     i = j = 0;
     k = n - 1;
