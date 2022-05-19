@@ -55,11 +55,34 @@ public class Intersection2linkedList {
         list.printList(headA);
         list.printList(headB);
 
-        ListNode node = getIntersectionNodeoptimised(headA, headB);
+        ListNode nodeA = getIntersectionNode(headA, headB);
         System.out.println("**************************");
         System.out.println("| Intersected Linked List|");
         System.out.println("**************************");
-        list.printList(node);
+        list.printList(nodeA);
+
+        ListNode headAA = new ListNode(1);
+        headAA.next = new ListNode(3);
+        headAA.next.next = new ListNode(1);
+        headAA.next.next.next = new ListNode(2);
+        headAA.next.next.next.next = new ListNode(4);
+
+        ListNode headBB = new ListNode(3);
+        headBB.next = new ListNode(2);
+        headBB.next.next = new ListNode(4);
+
+        Intersection2linkedList listB = new Intersection2linkedList();
+        System.out.println("********************");
+        System.out.println("| Given Linked list |");
+        System.out.println("********************");
+        listB.printList(headAA);
+        listB.printList(headBB);
+
+        ListNode nodeB = getIntersectionNodeoptimised(headAA, headBB);
+        System.out.println("**************************");
+        System.out.println("| Intersected Linked List|");
+        System.out.println("**************************");
+        listB.printList(nodeB);
 
     }
 
