@@ -2,6 +2,7 @@ package leetCode.two_pointers;
 
 import java.util.Arrays;
 
+/** https://leetcode.com/problems/squares-of-a-sorted-array/ */
 public class SqOfSortedNum {
     public static void main(String[] args) {
         int[] nums = new int[] { -4, -1, 0, 3, 10 };

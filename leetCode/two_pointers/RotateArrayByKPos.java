@@ -2,6 +2,7 @@ package leetCode.two_pointers;
 
 import java.util.Arrays;
 
+/** https://leetcode.com/problems/rotate-array/ */
 public class RotateArrayByKPos {
     public static void main(String[] args) {
         int[] nums = new int[] { 1, 2, 3, 4, 5, 6, 7 };
