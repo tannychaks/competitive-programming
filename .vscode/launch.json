@@ -6,6 +6,111 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch MaxWidthBinaryTree",
+      "request": "launch",
+      "mainClass": "striverSDEsheet.day17.MaxWidthBinaryTree",
+      "projectName": "competitive-programming_31fe38e"
+    },
+    {
+      "type": "java",
+      "name": "Launch PathToGivenNode",
+      "request": "launch",
+      "mainClass": "striverSDEsheet.day17.PathToGivenNode",
+      "projectName": "competitive-programming_31fe38e"
+    },
+    {
+      "type": "java",
+      "name": "Launch VerticalOrderTraversal",
+      "request": "launch",
+      "mainClass": "striverSDEsheet.day17.VerticalOrderTraversal",
+      "projectName": "competitive-programming_31fe38e"
+    },
+    {
+      "type": "java",
+      "name": "Launch PreInPostSingleTraversal",
+      "request": "launch",
+      "mainClass": "striverSDEsheet.day17.PreInPostSingleTraversal",
+      "projectName": "competitive-programming_31fe38e"
+    },
+    {
+      "type": "java",
+      "name": "Launch TopViewTree",
+      "request": "launch",
+      "mainClass": "striverSDEsheet.day17.TopViewTree",
+      "projectName": "competitive-programming_31fe38e"
+    },
+    {
+      "type": "java",
+      "name": "Launch BottomViewTree",
+      "request": "launch",
+      "mainClass": "striverSDEsheet.day17.BottomViewTree",
+      "projectName": "competitive-programming_31fe38e"
+    },
+    {
+      "type": "java",
+      "name": "Launch LeftViewTree",
+      "request": "launch",
+      "mainClass": "striverSDEsheet.day17.LeftViewTree",
+      "projectName": "competitive-programming_31fe38e"
+    },
+    {
+      "type": "java",
+      "name": "Launch RightView",
+      "request": "launch",
+      "mainClass": "striverSDEsheet.day17.RightView",
+      "projectName": "competitive-programming_31fe38e"
+    },
+    {
+      "type": "java",
+      "name": "Launch MorrisPreOrderTraversal",
+      "request": "launch",
+      "mainClass": "striverSDEsheet.day17.MorrisPreOrderTraversal",
+      "projectName": "competitive-programming_31fe38e"
+    },
+    {
+      "type": "java",
+      "name": "Launch MorrisInorderTraversal",
+      "request": "launch",
+      "mainClass": "striverSDEsheet.day17.MorrisInorderTraversal",
+      "projectName": "competitive-programming_31fe38e"
+    },
+    {
+      "type": "java",
+      "name": "Launch PostOrderTraversal",
+      "request": "launch",
+      "mainClass": "striverSDEsheet.day17.PostOrderTraversal",
+      "projectName": "competitive-programming_31fe38e"
+    },
+    {
+      "type": "java",
+      "name": "Launch PreOrderTraversal",
+      "request": "launch",
+      "mainClass": "striverSDEsheet.day17.PreOrderTraversal",
+      "projectName": "competitive-programming_31fe38e"
+    },
+    {
+      "type": "java",
+      "name": "Launch InorderTraversal",
+      "request": "launch",
+      "mainClass": "striverSDEsheet.day17.InorderTraversal",
+      "projectName": "competitive-programming_31fe38e"
+    },
+    {
+      "type": "java",
+      "name": "Launch PermutationInString",
+      "request": "launch",
+      "mainClass": "striverSDEsheet.day17.PermutationInString",
+      "projectName": "competitive-programming_31fe38e"
+    },
+    {
+      "type": "java",
+      "name": "Launch RemovePalindromicSubsequences",
+      "request": "launch",
+      "mainClass": "striverSDEsheet.day17.RemovePalindromicSubsequences",
+      "projectName": "competitive-programming_31fe38e"
+    },
+    {
+      "type": "java",
       "name": "Launch CompareVersionNumbers",
       "request": "launch",
       "mainClass": "striverSDEsheet.day16.CompareVersionNumbers",
