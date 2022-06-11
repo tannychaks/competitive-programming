@@ -6,6 +6,69 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch BoundaryTraversal",
+      "request": "launch",
+      "mainClass": "striverSDEsheet.day18.BoundaryTraversal",
+      "projectName": "competitive-programming_31fe38e"
+    },
+    {
+      "type": "java",
+      "name": "Launch ZigZagTraversalBinaryTree",
+      "request": "launch",
+      "mainClass": "striverSDEsheet.day18.ZigZagTraversalBinaryTree",
+      "projectName": "competitive-programming_31fe38e"
+    },
+    {
+      "type": "java",
+      "name": "Launch SameTree",
+      "request": "launch",
+      "mainClass": "striverSDEsheet.day18.SameTree",
+      "projectName": "competitive-programming_31fe38e"
+    },
+    {
+      "type": "java",
+      "name": "Launch MinOpsToReduceXto0",
+      "request": "launch",
+      "mainClass": "striverSDEsheet.day18.MinOpsToReduceXto0",
+      "projectName": "competitive-programming_31fe38e"
+    },
+    {
+      "type": "java",
+      "name": "Launch LowestCommonAncestorTree",
+      "request": "launch",
+      "mainClass": "striverSDEsheet.day18.LowestCommonAncestorTree",
+      "projectName": "competitive-programming_31fe38e"
+    },
+    {
+      "type": "java",
+      "name": "Launch CheckBalancedBinaryTree",
+      "request": "launch",
+      "mainClass": "striverSDEsheet.day18.CheckBalancedBinaryTree",
+      "projectName": "competitive-programming_31fe38e"
+    },
+    {
+      "type": "java",
+      "name": "Launch DiameterOfBinaryTree",
+      "request": "launch",
+      "mainClass": "striverSDEsheet.day18.DiameterOfBinaryTree",
+      "projectName": "competitive-programming_31fe38e"
+    },
+    {
+      "type": "java",
+      "name": "Launch HeightOfTree",
+      "request": "launch",
+      "mainClass": "striverSDEsheet.day18.HeightOfTree",
+      "projectName": "competitive-programming_31fe38e"
+    },
+    {
+      "type": "java",
+      "name": "Launch LevelOrderTraversal",
+      "request": "launch",
+      "mainClass": "striverSDEsheet.day18.LevelOrderTraversal",
+      "projectName": "competitive-programming_31fe38e"
+    },
+    {
+      "type": "java",
       "name": "Launch MaxWidthBinaryTree",
       "request": "launch",
       "mainClass": "striverSDEsheet.day17.MaxWidthBinaryTree",
