@@ -6,6 +6,41 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch FlattenBinaryTree",
+      "request": "launch",
+      "mainClass": "striverSDEsheet.day19.FlattenBinaryTree",
+      "projectName": "competitive-programming_31fe38e"
+    },
+    {
+      "type": "java",
+      "name": "Launch SymmetricTree",
+      "request": "launch",
+      "mainClass": "striverSDEsheet.day19.SymmetricTree",
+      "projectName": "competitive-programming_31fe38e"
+    },
+    {
+      "type": "java",
+      "name": "Launch BuildTreeFromInAndPost",
+      "request": "launch",
+      "mainClass": "striverSDEsheet.day19.BuildTreeFromInAndPost",
+      "projectName": "competitive-programming_31fe38e"
+    },
+    {
+      "type": "java",
+      "name": "Launch BuildTreeFromInAndPre",
+      "request": "launch",
+      "mainClass": "striverSDEsheet.day19.BuildTreeFromInAndPre",
+      "projectName": "competitive-programming_31fe38e"
+    },
+    {
+      "type": "java",
+      "name": "Launch MaxPathSum",
+      "request": "launch",
+      "mainClass": "striverSDEsheet.day19.MaxPathSum",
+      "projectName": "competitive-programming_31fe38e"
+    },
+    {
+      "type": "java",
       "name": "Launch BoundaryTraversal",
       "request": "launch",
       "mainClass": "striverSDEsheet.day18.BoundaryTraversal",
