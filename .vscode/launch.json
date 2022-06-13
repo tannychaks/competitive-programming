@@ -6,6 +6,76 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch LowestCommonAncestorBST",
+      "request": "launch",
+      "mainClass": "striverSDEsheet.day20.LowestCommonAncestorBST",
+      "projectName": "competitive-programming_31fe38e"
+    },
+    {
+      "type": "java",
+      "name": "Launch ValidateBST",
+      "request": "launch",
+      "mainClass": "striverSDEsheet.day20.ValidateBST",
+      "projectName": "competitive-programming_31fe38e"
+    },
+    {
+      "type": "java",
+      "name": "Launch DeleteNodeFromBST",
+      "request": "launch",
+      "mainClass": "striverSDEsheet.day20.DeleteNodeFromBST",
+      "projectName": "competitive-programming_31fe38e"
+    },
+    {
+      "type": "java",
+      "name": "Launch InsertIntoBST",
+      "request": "launch",
+      "mainClass": "striverSDEsheet.day20.InsertIntoBST",
+      "projectName": "competitive-programming_31fe38e"
+    },
+    {
+      "type": "java",
+      "name": "Launch SortedArrayToBST",
+      "request": "launch",
+      "mainClass": "striverSDEsheet.day20.SortedArrayToBST",
+      "projectName": "competitive-programming_31fe38e"
+    },
+    {
+      "type": "java",
+      "name": "Launch PopulateNextRight",
+      "request": "launch",
+      "mainClass": "striverSDEsheet.day20.PopulateNextRight",
+      "projectName": "competitive-programming_31fe38e"
+    },
+    {
+      "type": "java",
+      "name": "Launch SearchKeyBST",
+      "request": "launch",
+      "mainClass": "striverSDEsheet.day20.SearchKeyBST",
+      "projectName": "competitive-programming_31fe38e"
+    },
+    {
+      "type": "java",
+      "name": "Launch Triangle",
+      "request": "launch",
+      "mainClass": "dynamicProgramming.Triangle",
+      "projectName": "competitive-programming_31fe38e"
+    },
+    {
+      "type": "java",
+      "name": "Launch TwoDArrayToList",
+      "request": "launch",
+      "mainClass": "general.TwoDArrayToList",
+      "projectName": "competitive-programming_31fe38e"
+    },
+    {
+      "type": "java",
+      "name": "Launch MaxErasureVal",
+      "request": "launch",
+      "mainClass": "striverSDEsheet.day20.MaxErasureVal",
+      "projectName": "competitive-programming_31fe38e"
+    },
+    {
+      "type": "java",
       "name": "Launch FlattenBinaryTree",
       "request": "launch",
       "mainClass": "striverSDEsheet.day19.FlattenBinaryTree",
