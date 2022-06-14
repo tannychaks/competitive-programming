@@ -6,6 +6,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch FloodFill",
+      "request": "launch",
+      "mainClass": "striverSDEsheet.day22.FloodFill",
+      "projectName": "competitive-programming_31fe38e"
+    },
+    {
+      "type": "java",
+      "name": "Launch KthLargestElementArray",
+      "request": "launch",
+      "mainClass": "striverSDEsheet.day22.KthLargestElementArray",
+      "projectName": "competitive-programming_31fe38e"
+    },
+    {
+      "type": "java",
+      "name": "Launch DistinctNumbersInWindow",
+      "request": "launch",
+      "mainClass": "striverSDEsheet.day22.DistinctNumbersInWindow",
+      "projectName": "competitive-programming_31fe38e"
+    },
+    {
+      "type": "java",
+      "name": "Launch KthLargestInStream",
+      "request": "launch",
+      "mainClass": "striverSDEsheet.day22.KthLargestInStream",
+      "projectName": "competitive-programming_31fe38e"
+    },
+    {
+      "type": "java",
       "name": "Launch SerializeDeserializeTree",
       "request": "launch",
       "mainClass": "striverSDEsheet.day21.SerializeDeserializeTree",
