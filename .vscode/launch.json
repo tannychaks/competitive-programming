@@ -6,6 +6,69 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch SerializeDeserializeTree",
+      "request": "launch",
+      "mainClass": "striverSDEsheet.day21.SerializeDeserializeTree",
+      "projectName": "competitive-programming_31fe38e"
+    },
+    {
+      "type": "java",
+      "name": "Launch MaxSumBSTinBT",
+      "request": "launch",
+      "mainClass": "striverSDEsheet.day21.MaxSumBSTinBT",
+      "projectName": "competitive-programming_31fe38e"
+    },
+    {
+      "type": "java",
+      "name": "Launch MaxSumBST",
+      "request": "launch",
+      "mainClass": "striverSDEsheet.day21.MaxSumBST",
+      "projectName": "competitive-programming_31fe38e"
+    },
+    {
+      "type": "java",
+      "name": "Launch TwoSumBST",
+      "request": "launch",
+      "mainClass": "striverSDEsheet.day21.TwoSumBST",
+      "projectName": "competitive-programming_31fe38e"
+    },
+    {
+      "type": "java",
+      "name": "Launch BSTIterator",
+      "request": "launch",
+      "mainClass": "striverSDEsheet.day21.BSTIterator",
+      "projectName": "competitive-programming_31fe38e"
+    },
+    {
+      "type": "java",
+      "name": "Launch KthLargestBST",
+      "request": "launch",
+      "mainClass": "striverSDEsheet.day21.KthLargestBST",
+      "projectName": "competitive-programming_31fe38e"
+    },
+    {
+      "type": "java",
+      "name": "Launch KthSmallestBST",
+      "request": "launch",
+      "mainClass": "striverSDEsheet.day21.KthSmallestBST",
+      "projectName": "competitive-programming_31fe38e"
+    },
+    {
+      "type": "java",
+      "name": "Launch CeilInBST",
+      "request": "launch",
+      "mainClass": "striverSDEsheet.day21.CeilInBST",
+      "projectName": "competitive-programming_31fe38e"
+    },
+    {
+      "type": "java",
+      "name": "Launch FloorBST",
+      "request": "launch",
+      "mainClass": "striverSDEsheet.day21.FloorBST",
+      "projectName": "competitive-programming_31fe38e"
+    },
+    {
+      "type": "java",
       "name": "Launch LowestCommonAncestorBST",
       "request": "launch",
       "mainClass": "striverSDEsheet.day20.LowestCommonAncestorBST",
