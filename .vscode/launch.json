@@ -6,6 +6,97 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch GraphBipartiteDFS",
+      "request": "launch",
+      "mainClass": "striverSDEsheet.day23.GraphBipartiteDFS",
+      "projectName": "competitive-programming_31fe38e"
+    },
+    {
+      "type": "java",
+      "name": "Launch GraphBipartiteBFS",
+      "request": "launch",
+      "mainClass": "striverSDEsheet.day23.GraphBipartiteBFS",
+      "projectName": "competitive-programming_31fe38e"
+    },
+    {
+      "type": "java",
+      "name": "Launch NumberOfIslands",
+      "request": "launch",
+      "mainClass": "striverSDEsheet.day23.NumberOfIslands",
+      "projectName": "competitive-programming_31fe38e"
+    },
+    {
+      "type": "java",
+      "name": "Launch TopologicalSortBFS",
+      "request": "launch",
+      "mainClass": "striverSDEsheet.day23.TopologicalSortBFS",
+      "projectName": "competitive-programming_31fe38e"
+    },
+    {
+      "type": "java",
+      "name": "Launch TopologicalSortDFS",
+      "request": "launch",
+      "mainClass": "striverSDEsheet.day23.TopologicalSortDFS",
+      "projectName": "competitive-programming_31fe38e"
+    },
+    {
+      "type": "java",
+      "name": "Launch CheckCycleDirectedGraphBFS",
+      "request": "launch",
+      "mainClass": "striverSDEsheet.day23.CheckCycleDirectedGraphBFS",
+      "projectName": "competitive-programming_31fe38e"
+    },
+    {
+      "type": "java",
+      "name": "Launch GFG",
+      "request": "launch",
+      "mainClass": "striverSDEsheet.day23.GFG",
+      "projectName": "competitive-programming_31fe38e"
+    },
+    {
+      "type": "java",
+      "name": "Launch CheckCycleUndirectedGraphBFS",
+      "request": "launch",
+      "mainClass": "striverSDEsheet.day23.CheckCycleUndirectedGraphBFS",
+      "projectName": "competitive-programming_31fe38e"
+    },
+    {
+      "type": "java",
+      "name": "Launch CheckCycleUndirectedGraphDFS",
+      "request": "launch",
+      "mainClass": "striverSDEsheet.day23.CheckCycleUndirectedGraphDFS",
+      "projectName": "competitive-programming_31fe38e"
+    },
+    {
+      "type": "java",
+      "name": "Launch CourseSchedule",
+      "request": "launch",
+      "mainClass": "striverSDEsheet.day23.CourseSchedule",
+      "projectName": "competitive-programming_31fe38e"
+    },
+    {
+      "type": "java",
+      "name": "Launch CheckCycleGraph",
+      "request": "launch",
+      "mainClass": "striverSDEsheet.day23.CheckCycleGraph",
+      "projectName": "competitive-programming_31fe38e"
+    },
+    {
+      "type": "java",
+      "name": "Launch GraphDFS",
+      "request": "launch",
+      "mainClass": "striverSDEsheet.day23.GraphDFS",
+      "projectName": "competitive-programming_31fe38e"
+    },
+    {
+      "type": "java",
+      "name": "Launch GraphBFS",
+      "request": "launch",
+      "mainClass": "striverSDEsheet.day23.GraphBFS",
+      "projectName": "competitive-programming_31fe38e"
+    },
+    {
+      "type": "java",
       "name": "Launch FloodFill",
       "request": "launch",
       "mainClass": "striverSDEsheet.day22.FloodFill",
