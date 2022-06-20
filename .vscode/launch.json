@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch PrimAlgo",
+      "request": "launch",
+      "mainClass": "striverSDEsheet.day24.PrimAlgo",
+      "projectName": "competitive-programming_31fe38e"
+    },
+    {
+      "type": "java",
+      "name": "Launch Djikstra",
+      "request": "launch",
+      "mainClass": "striverSDEsheet.day24.Djikstra",
+      "projectName": "competitive-programming_31fe38e"
+    },
+    {
+      "type": "java",
       "name": "Launch GraphBipartiteDFS",
       "request": "launch",
       "mainClass": "striverSDEsheet.day23.GraphBipartiteDFS",
