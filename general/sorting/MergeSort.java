@@ -39,7 +39,8 @@ public class MergeSort {
             right[j] = arr[mid + 1 + j];
         // System.out.println(Arrays.toString(left));
         // System.out.println(Arrays.toString(right));
-        System.out.println(l);
+        // System.out.println(l);
+
         int i = 0, j = 0, k = l;
 
         while (i < n1 && j < n2) {

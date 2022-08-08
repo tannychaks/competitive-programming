@@ -1,17 +1,16 @@
 package general;
 
-import java.util.Scanner;
-
 public class HelloWorld {
   public static void main(String[] args) {
-    Scanner sc = new Scanner(System.in);
-    int n = sc.nextInt();
-
-    System.out.println(method(n));
-    sc.close();
-  }
-
-  private static int method(int n) {
-    return 0;
+    String s = "Tanny";
+    String t = "Tanny";
+    String r = s;
+    String p = new String("Tanny");
+    System.out.println(s == t);
+    System.out.println(s == r);
+    System.out.println(s == p);
+    System.out.println(s.equals(t));
+    System.out.println(s.equals(r));
+    System.out.println(s.equals(p));
   }
 }

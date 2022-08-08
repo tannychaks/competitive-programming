@@ -35,5 +35,13 @@ public class TwoDListToArray {
             }
             System.out.println();
         }
+
+        List<Integer> singleList = Arrays.asList(1, 2, 3, 4);
+
+        System.out.println(singleList);
+
+        int[] nums = singleList.stream().mapToInt(Integer::intValue).toArray();
+
+        System.out.println(Arrays.toString(nums));
     }
 }

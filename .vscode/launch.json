@@ -6,6 +6,69 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch InterfaceLogic",
+      "request": "launch",
+      "mainClass": "general.InterfaceLogic",
+      "projectName": "competitive-programming_31fe38e"
+    },
+    {
+      "type": "java",
+      "name": "Launch Cows",
+      "request": "launch",
+      "mainClass": "general.Cows",
+      "projectName": "competitive-programming_31fe38e"
+    },
+    {
+      "type": "java",
+      "name": "Launch CountSubsequenceWithSumGreater",
+      "request": "launch",
+      "mainClass": "general.CountSubsequenceWithSumGreater",
+      "projectName": "competitive-programming_31fe38e"
+    },
+    {
+      "type": "java",
+      "name": "Launch MaxSumNumbers",
+      "request": "launch",
+      "mainClass": "general.MaxSumNumbers",
+      "projectName": "competitive-programming_31fe38e"
+    },
+    {
+      "type": "java",
+      "name": "Launch RotateMatrixClockwise",
+      "request": "launch",
+      "mainClass": "striverSDEsheet.day2.RotateMatrixClockwise",
+      "projectName": "competitive-programming_31fe38e"
+    },
+    {
+      "type": "java",
+      "name": "Launch SearchSuggestionSystems",
+      "request": "launch",
+      "mainClass": "striverSDEsheet.day27.SearchSuggestionSystems",
+      "projectName": "competitive-programming_31fe38e"
+    },
+    {
+      "type": "java",
+      "name": "Launch CompleteString",
+      "request": "launch",
+      "mainClass": "striverSDEsheet.day27.CompleteString",
+      "projectName": "competitive-programming_31fe38e"
+    },
+    {
+      "type": "java",
+      "name": "Launch TrieDriver2",
+      "request": "launch",
+      "mainClass": "striverSDEsheet.day27.TrieDriver2",
+      "projectName": "competitive-programming_31fe38e"
+    },
+    {
+      "type": "java",
+      "name": "Launch TrieDriver1",
+      "request": "launch",
+      "mainClass": "striverSDEsheet.day27.TrieDriver1",
+      "projectName": "competitive-programming_31fe38e"
+    },
+    {
+      "type": "java",
       "name": "Launch PrimAlgo",
       "request": "launch",
       "mainClass": "striverSDEsheet.day24.PrimAlgo",

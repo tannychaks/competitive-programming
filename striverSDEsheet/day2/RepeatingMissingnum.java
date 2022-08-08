@@ -38,6 +38,8 @@ public class RepeatingMissingnum {
         }
         Pair<Integer, Integer> ans = missingAndRepeating(arr, n);
         System.out.println(ans.getKey() + " : " + ans.getValue());
+        ans = missingAndRepeatingUsingXOR(arr, n);
+        System.out.println(ans.getKey() + " : " + ans.getValue());
         sc.close();
     }
 
@@ -57,6 +59,46 @@ public class RepeatingMissingnum {
 
         Pair<Integer, Integer> p = new Pair<>(missingNum, repeatingNum);
         return p;
+    }
+
+    private static Pair<Integer, Integer> missingAndRepeatingUsingXOR(ArrayList<Integer> arr, int n) {
+        int xor = arr.get(0);
+        for (int i = 1; i < n; i++)
+            xor ^= arr.get(i);
+
+        for (int i = 1; i <= n; i++)
+            xor ^= i;
+
+        int setBit = xor & ~(xor - 1);
+        int x = 0, y = 0;
+        for (int i = 0; i < n; i++) {
+            if ((arr.get(i) & setBit) != 0)
+                x = x ^ arr.get(i);
+            else
+                y ^= arr.get(i);
+        }
+        for (int i = 1; i <= n; i++) {
+            if ((i & setBit) != 0)
+                x = x ^ i;
+            else
+                y ^= i;
+        }
+
+        int countX = 0;
+        for (int num : arr) {
+            if (num != x && num != y)
+                continue;
+            else if (num == x)
+                countX++;
+        }
+
+        if (countX == 0) {
+            Pair<Integer, Integer> p = new Pair<>(x, y);
+            return p;
+        } else {
+            Pair<Integer, Integer> p = new Pair<>(y, x);
+            return p;
+        }
     }
 
 }
